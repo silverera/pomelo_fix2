@@ -41,7 +41,7 @@
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git",
     "ws": "0.8.0",
-    "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git",
+    "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git#8b80332c64c33780aaeda8dea6ce793e02bceab1",
     "node-bignumber": "1.2.1",
     "commander": "2.0.0",
     "mqtt": "0.3.9"
