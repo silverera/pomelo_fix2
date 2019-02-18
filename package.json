@@ -12,10 +12,12 @@
   "bugs": {
     "url": "https://github.com/NetEase/pomelo/issues"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/NetEase/pomelo#license"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/NetEase/pomelo#license"
+    }
+  ],
   "keywords": [
     "pomelo",
     "framework",
@@ -26,22 +28,22 @@
   ],
   "dependencies": {
     "socket.io": "1.7.2",
-    "async": "0.2.5",
+    "async": "2.6.2",
     "seq-queue": "0.0.5",
-    "crc": "0.2.0",
-    "cliff": "0.1.8",
-    "mkdirp": "0.3.3",
-    "pomelo-loader": "0.0.6",
+    "crc": "3.8.0",
+    "cliff": "0.1.10",
+    "mkdirp": "0.5.1",
+    "pomelo-loader": "0.0.7",
     "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "git://github.com/silverera/pomelo-admin.git",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git",
-     "ws": "1.1.1",
+    "ws": "6.1.4",
     "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git#8b80332c64c33780aaeda8dea6ce793e02bceab1",
     "node-bignumber": "1.2.1",
-    "commander": "2.0.0",
-    "mqtt": "0.3.9"
+    "commander": "2.19.0",
+    "mqtt": "2.18.8"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
