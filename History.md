@@ -1,3 +1,30 @@
+2.2.5 / 2017-1-22
+=================
+  * [#815](https://github.com/NetEase/pomelo/pull/815)
+  * [#901](https://github.com/NetEase/pomelo/pull/901)
+
+2.2.4 / 2017-1-20
+=================
+  * [NEW] upgrade pomelo-rpc to 1.0.7
+
+2.2.3 / 2017-1-20
+=================
+  * [NEW] upgrade socket.io to 1.7.x
+
+2.2.2 / 2017-1-20
+=================
+  * [#899](https://github.com/NetEase/pomelo/pull/899)
+
+2.2.1 / 2017-1-20
+=================
+  * [FIX] fix push message with no array
+
+2.2.0 / 2017-1-19
+=================
+  * [NEW] upgrade pomelo-rpc to 1.0.6, rpc protocol moved to MQTT
+  * [NEW] upgrade pomelo-admin to 1.0.0
+  * [NEW] pure javaScript without need to install c++ addons 
+
 1.2.1 / 2015-12-31
 ================
   * [NEW] upgrade ws to 0.8.0
