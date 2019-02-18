@@ -12,10 +12,12 @@
   "bugs": {
     "url": "https://github.com/NetEase/pomelo/issues"
   },
-  "licenses": [{
+  "licenses": [
+    {
       "type": "MIT",
       "url": "https://github.com/NetEase/pomelo#license"
-   }],
+    }
+  ],
   "keywords": [
     "pomelo",
     "framework",
@@ -32,9 +34,9 @@
     "cliff": "0.1.10",
     "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.7",
-    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git",
+    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git#dev",
     "pomelo-protocol": "0.1.6",
-    "pomelo-admin": "git://github.com/silverera/pomelo-admin.git",
+    "pomelo-admin": "git://github.com/silverera/pomelo-admin.git#dev",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git",
     "ws": "6.1.4",
